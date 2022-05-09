@@ -651,7 +651,7 @@ input {
 .bg-gradient .btn-standard:hover,
 .shadow .btn-standard:hover {
   background: #ffffff;
-  color: #3bcf93;
+  color: #EFF31A;
 }
 
 .hibiscus .bg-theme .btn-standard:hover,
@@ -678,16 +678,16 @@ input {
 }
 
 .bg-gradient {
-  background: #3bcf93;
-  background: -webkit-linear-gradient(top left, #3bcf93, #061169);
-  background: -moz-linear-gradient(top left, #3bcf93, #061169);
-  background: linear-gradient(to bottom right, #3bcf93, #061169);
+  background: #339337;
+  background: -webkit-linear-gradient(top left, #339337, #061169);
+  background: -moz-linear-gradient(top left, #339337, #061169);
+  background: linear-gradient(to bottom right, #339337, #061169);
 }
 
 .btn-theme {
-  background-color: #3bcf93;
+  background-color: #339337;
   color: #ffffff !important;
-  border: 2px solid #3bcf93;
+  border: 2px solid #339337;
 }
 
 .hibiscus .btn-theme {
@@ -699,7 +699,7 @@ input {
 .btn-theme.border {
   background-color: transparent;
   color: #232323 !important;
-  border: 2px solid #3bcf93 !important;
+  border: 2px solid #339337 !important;
 }
 
 .hibiscus .btn-theme.border {
@@ -713,9 +713,9 @@ input {
 }
 
 .btn-theme.border:hover {
-  background-color: #3bcf93;
+  background-color: #339337;
   color: #ffffff !important;
-  border: 2px solid #3bcf93;
+  border: 2px solid #339337;
 }
 
 .hibiscus .btn-theme.border:hover {
